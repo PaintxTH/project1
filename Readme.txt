@@ -19,11 +19,15 @@ We already know that SG has 2 monsoon seasons,The Northeast Monsoon from Decembe
 \
 **Disclaimer:** As stated in Raw Data above, the metrological station has been relocated quite a few then moved to Changi since 1984, I didn't remove the data from 1982 to 1984 since station relocation may not be a big deal in Singapore context which as total area of a bit more from Phuket province!\
 \
-After quite a few EDA, It is certain that The Northeast Monsoon that occurs from December to early March is cause more serverity in terms of rains than the Southwest Monsoon from June to September. So, we suggest that condition to put in the rules for extra paid leaves for employee welfare should be around October, November, December and January; Although, this shouldn't extend to February since February has shown to be the least rain month of the year to effect least with business since It is proven *(from outsource article*)* that rain can associate with demand for Carwash.\
+After quite a few EDA, It is certain that The Northeast Monsoon that occurs from December to early March is cause more serverity in terms of rains than the Southwest Monsoon from June to September. So, we suggest that condition to put in the rules for extra paid leaves for employee welfare should be around October, November, December and January; Although, this shouldn't extend to February since February has shown to be the least rain month of the year to effect least with business since It is proven *(from outsource article*)* that rain can associate with demand for Carwash.
+/
+Else; It can put it in marketing perspective; rainy season can be put to a perfect chance to run a promotion of non-car washing associated service like car detailing / coating to avoid rain stain to damage car paint and have employee benefits from it for extra incentive for such services. So, both owner and employee can enjoy benefits both side.
+/
+This may help in business decision in a perspective, but together with sales in carwash data over period of time could be perks and help making smarter decision (if available; although is a 'no no' in this case) 
+/
+In terms of implementation/
+We suggest give extra 3 paid leave that limit usage only to Nov, Dec and Jan, That way we could lift up our employee welfare competitiveness and affect our business the least than those months that rain less
 \
-Else; It can put it in marketing perspective; rainy season can be put to a perfect chance to run a promotion of non-car washing associated service like car detailing / coating to avoid rain stain to damage car paint and have employee benefits from it for extra incentive for such services. So, both owner and employee can enjoy benefits both side.\
-\
-This may help in business decision in a perspective, but together with sales in carwash data over period of time could be perks more and help making smarter decision (if available; although is a 'no no' in this case) \
 \
 **Outside Research**\
 \
